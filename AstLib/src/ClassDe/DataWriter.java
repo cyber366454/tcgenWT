@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class DataWriter {
 	FileWriter fw = null;
 	BufferedWriter bw = null;
-	String outputPath = "C:\\Users\\pllab\\workspace\\AstLib\\src\\newAST\\testInfo.txt ";
+	String outputPath = "C:\\Users\\pllab\\Documents\\tcgenWT\\AstLib\\src\\newAST\\testInfo.txt ";
 
 	public void writeInfo(String data) {
 		try {
