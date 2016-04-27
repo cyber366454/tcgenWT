@@ -1,0 +1,26 @@
+begin
+int
+tap
+0
+If:	tap < 1
+ThenStatement :{
+  System.out.println("if expression!");
+}
+
+ElseStatement :{
+  System.out.println("if else expression!");
+}
+
+Infix:	
+left operator - operator - right operator:	
+tap < 1
+Left operator :	tap
+Operator :	<
+Right operator :1
+System.out.println("if expression!")
+System.out.println
+["if expression!"]
+System.out.println("if else expression!")
+System.out.println
+["if else expression!"]
+end.

@@ -1,0 +1,58 @@
+begin
+int
+tap
+0
+If:	tap < 1
+ThenStatement :{
+  System.out.println("if expression-1!");
+  System.out.println("if expression-2!");
+  System.out.println("if expression-3!");
+  System.out.println("if expression-4!");
+  System.out.println("if expression-5!");
+}
+
+ElseStatement :{
+  System.out.println("if else expression-1!");
+  System.out.println("if else expression-2!");
+  System.out.println("if else expression-3!");
+  System.out.println("if else expression-4!");
+  System.out.println("if else expression-5!");
+}
+
+Infix:	
+left operator - operator - right operator:	
+tap < 1
+Left operator :	tap
+Operator :	<
+Right operator :1
+System.out.println("if expression-1!")
+System.out.println
+["if expression-1!"]
+System.out.println("if expression-2!")
+System.out.println
+["if expression-2!"]
+System.out.println("if expression-3!")
+System.out.println
+["if expression-3!"]
+System.out.println("if expression-4!")
+System.out.println
+["if expression-4!"]
+System.out.println("if expression-5!")
+System.out.println
+["if expression-5!"]
+System.out.println("if else expression-1!")
+System.out.println
+["if else expression-1!"]
+System.out.println("if else expression-2!")
+System.out.println
+["if else expression-2!"]
+System.out.println("if else expression-3!")
+System.out.println
+["if else expression-3!"]
+System.out.println("if else expression-4!")
+System.out.println
+["if else expression-4!"]
+System.out.println("if else expression-5!")
+System.out.println
+["if else expression-5!"]
+end.
