@@ -22,6 +22,9 @@ public class DataWriter {
 			try {
 				bw.close();
 			} catch (IOException e) {
+				
+				
+				
 			}
 		}
 	}
