@@ -44,12 +44,6 @@ public class DataWriter {
 				bw.close();
 			} catch (IOException e) {
 				
-				
-				
-				
-				
-				
-				
 			}
 		}
 	}
